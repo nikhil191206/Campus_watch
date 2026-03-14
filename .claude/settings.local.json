@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python train_ppo.py)",
+      "Bash(pip install:*)"
+    ]
+  }
+}
